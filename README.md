@@ -10,7 +10,7 @@ The application aims to provide learners with a comprehensive understanding of t
 <br>
 <br>
 
-## Designs
+## Design
 
 <img src="Backgrounds/Thumbnail.png" width="760"><br>
 <img src="Backgrounds/StartScreenApp.png" width="265">
