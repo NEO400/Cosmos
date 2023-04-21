@@ -4,13 +4,13 @@ Cosmos, designed to educate users about water on other planets, including its so
 The application aims to provide learners with a comprehensive understanding of the solar system and how its components are interconnected, with a particular focus on the vital role that water plays in sustaining life.<br>
 <br>
 
-## Preview Project On Figma;
+## View Prototype
 
 <a href="https://www.figma.com/proto/cW9bGVNvBo9t2KtRiGRwou/Cosmos---Water-And-The-Exploration-Of-Space?node-id=350-103&scaling=scale-down&page-id=0%3A1&starting-point-node-id=350%3A103"><img src="FigmaLogo.png" width="100"></img></a>
 <br>
 <br>
 
-## Design
+## Designs
 
 <img src="Backgrounds/Thumbnail.png" width="760"><br>
 <img src="Backgrounds/StartScreenApp.png" width="265">
