@@ -1,6 +1,6 @@
 # Cosmos - Water And The Exploration Of Space
 
-Cosmos, the application aims to provide learners with a comprehensive understanding of the solar system and its components, with a particular focus on the role of water in different planets.<br>
+The Cosmos application aims to provide learners with a comprehensive understanding of the solar system and its components, with a particular focus on the role of water in different planets.<br>
 <br>
 
 ## View Prototype
