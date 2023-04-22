@@ -1,7 +1,6 @@
 # Cosmos - Water And The Exploration Of Space
 
-Cosmos, designed to educate users about water on other planets, including its source, distribution, and geographical surveys based on asteroids in solar systems.
-The application aims to provide learners with a comprehensive understanding of the solar system and how its components are interconnected, with a particular focus on the vital role that water plays in sustaining life.<br>
+Cosmos, the application aims to provide learners with a comprehensive understanding of the solar system and its components, with a particular focus on the role of water in different planets.<br>
 <br>
 
 ## View Prototype
