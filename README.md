@@ -16,3 +16,9 @@ solar system and its components, with a particular focus on the role of water in
 <img src="Backgrounds/StartScreenApp.png" width="265">
 <img src="Backgrounds/HomeScreenGrab.png" width="250">
 <img src="Backgrounds/MarsScreenApp.png" width="238">
+<br>
+<br>
+
+## License
+
+Licensed under the [European Union Public License 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
