@@ -4,7 +4,8 @@ The Cosmos application aims to provide learners with a comprehensive understandi
 solar system and its components, with a particular focus on the role of water in different planets.<br>
 <br>
 
-Made with Centria UAS Scholars 
+Made with Centria UAS Scholars.
+
 
 ## Design
 
